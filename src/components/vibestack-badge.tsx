@@ -41,7 +41,7 @@ export function VibeStackBadge() {
             <stop offset="0" stopColor="#f00b51" />
             <stop offset="1" stopColor="#7366ff" />
           </linearGradient>
-          <linearGradient id="linear-gradient-4" x1="0.582" x2="0.712" y2="1.04" xlinkHref="#linear-gradient-3" />
+          <linearGradient id="linear-gradient-4" x1="0.582" x2="0.712" y2="1.04" href="#linear-gradient-3" />
         </defs>
         <g transform="translate(-46.867 -947)">
           <g transform="translate(46.867 947)">
